@@ -1,4 +1,4 @@
-#!/usr/bin/python3i
+#!/usr/bin/python3
 def best_score(a_dictionary):
     if a_dictionary:
         ls = list(a_dictionary)
